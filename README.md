@@ -1,25 +1,27 @@
-# C project template
+# A C template on Gitpod
 
-<img src="https://raw.githubusercontent.com/pantuza/c-project-template/media/cpt-cover.png" align="center" />
+This is a [C](https://en.wikipedia.org/wiki/The_C_Programming_Language) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 
-Every C project has a lazy start by creating lots of command line parsers, Makefiles, help and usage messages.
-**C project template** aims to take you to the solution point! The point you write the code that solves your problem.
+## Next Steps
 
-For detailed informations, check out the [Documentation wiki](https://github.com/pantuza/c-project-template/wiki)
+Click the button below to start a new development environment:
 
-The project brings you a Makefile, command line options parsing,
-colors for pretty printing, [valgrind](http://valgrind.org/) report and unittest
-using [cmocka](https://cmocka.org/). 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-haskell)
 
+## Get Started With Your Own Project
 
-### Quick usage
+### A new project
 
-* Clone project
-* Edit project.conf
-* make start
+Click the above "Open in Gitpod" button to start a new workspace. Once you're ready to push your first code changes, Gitpod will guide you to fork this project so you own it.
 
-Checkout the [Get started](https://github.com/pantuza/c-project-template/wiki/Get-started) and the [Documentation wiki](https://github.com/pantuza/c-project-template/wiki)
+### An existing project
 
-#### Author
+To get started with C on Gitpod, add a [`.gitpod.yml`](./.gitpod.yml) file which contains the configuration to improve the developer experience on Gitpod. To learn more, please see the [Getting Started](https://www.gitpod.io/docs/getting-started) documentation.
 
-Gustavo Pantuza <gustavopantuza@gmail.com>
+## Notes & caveats
+
+The project brings you a Makefile, command line options parsing, colors for pretty printing, [valgrind](http://valgrind.org/) report and unittest using [cmocka](https://cmocka.org/). 
+
+The template was created by Gustavo Pantuza and for detailed informations, check out the [Documentation wiki](https://github.com/pantuza/c-project-template/wiki).
+ 
+After cloning the repository you'll need to adjust `PROJECT_NAME` in the `project.conf` to match the name of your git repository.
