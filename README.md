@@ -6,7 +6,7 @@ This is a [C](https://en.wikipedia.org/wiki/The_C_Programming_Language) template
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-haskell)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-c)
 
 ## Get Started With Your Own Project
 
